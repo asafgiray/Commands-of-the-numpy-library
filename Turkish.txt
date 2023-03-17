@@ -1,0 +1,21 @@
+np.array(): Numpy dizisi oluşturmak için kullanılır. İçine liste, tuple ya da başka bir iterable obje alır.
+np.arange(): Belirli bir aralıktaki sayıları içeren bir numpy dizisi oluşturur. İlk parametre başlangıç, ikinci parametre ise bitiş sayısını belirtir.
+np.linspace(): Belirli bir aralıktaki sayıları içeren bir numpy dizisi oluşturur. İlk parametre başlangıç, ikinci parametre ise bitiş sayısıdır. Üçüncü parametre ise oluşturulacak eleman sayısını belirtir.
+np.zeros(): Belirtilen boyutlarda sıfırlardan oluşan bir numpy dizisi oluşturur.
+np.ones(): Belirtilen boyutlarda birlerden oluşan bir numpy dizisi oluşturur.
+np.eye(): Belirtilen boyutta birim matris oluşturur.
+np.random.rand(): Belirtilen boyutta rasgele sayılardan oluşan bir numpy dizisi oluşturur.
+np.random.randint(): Belirtilen aralıkta rasgele tam sayılar içeren bir numpy dizisi oluşturur.
+np.shape(): Bir numpy dizisinin boyutlarını gösterir.
+np.ndim(): Bir numpy dizisinin boyut sayısını gösterir.
+np.size(): Bir numpy dizisinin eleman sayısını gösterir.
+np.reshape(): Bir numpy dizisini belirtilen boyutlara göre yeniden şekillendirir.
+np.transpose(): Bir numpy dizisinin transpozunu alır.
+np.dot(): İki numpy dizisinin matris çarpımını yapar.
+np.sum(): Bir numpy dizisindeki elemanların toplamını hesaplar.
+np.mean(): Bir numpy dizisindeki elemanların ortalamasını hesaplar.
+np.std(): Bir numpy dizisindeki elemanların standart sapmasını hesaplar.
+np.max(): Bir numpy dizisindeki en büyük elemanı gösterir.
+np.min(): Bir numpy dizisindeki en küçük elemanı gösterir.
+np.argmax(): Bir numpy dizisindeki en büyük elemanın indeksini gösterir.
+np.argmin(): Bir numpy dizisindeki en küçük elemanın indeksini gösterir.

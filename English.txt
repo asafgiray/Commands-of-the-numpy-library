@@ -1,0 +1,21 @@
+np.array(): Used to create a numpy array. Takes a list, tuple or any other iterable object as input.
+np.arange(): Creates a numpy array containing a range of numbers. First parameter is the starting point, second parameter is the ending point.
+np.linspace(): Creates a numpy array containing a range of numbers. First parameter is the starting point, second parameter is the ending point. Third parameter specifies the number of elements to be created.
+np.zeros(): Creates a numpy array of zeros with the specified dimensions.
+np.ones(): Creates a numpy array of ones with the specified dimensions.
+np.eye(): Creates an identity matrix of the specified size.
+np.random.rand(): Creates a numpy array of random numbers with the specified dimensions.
+np.random.randint(): Creates a numpy array of random integers within the specified range.
+np.shape(): Returns the dimensions of a numpy array.
+np.ndim(): Returns the number of dimensions of a numpy array.
+np.size(): Returns the total number of elements in a numpy array.
+np.reshape(): Reshapes a numpy array to the specified dimensions.
+np.transpose(): Returns the transpose of a numpy array.
+np.dot(): Computes the dot product of two numpy arrays.
+np.sum(): Computes the sum of the elements in a numpy array.
+np.mean(): Computes the mean of the elements in a numpy array.
+np.std(): Computes the standard deviation of the elements in a numpy array.
+np.max(): Returns the maximum element in a numpy array.
+np.min(): Returns the minimum element in a numpy array.
+np.argmax(): Returns the index of the maximum element in a numpy array.
+np.argmin(): Returns the index of the minimum element in a numpy array.
